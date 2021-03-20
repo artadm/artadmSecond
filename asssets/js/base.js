@@ -1,0 +1,92 @@
+const isekai = [
+    {id: 'first', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'first', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'first', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'first', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'first', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'first', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'first', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'first', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'first', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+    {id: 'second', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'second', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'second', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'second', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'second', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'second', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'second', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'second', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'second', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+    {id: 'third', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'third', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'third', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'third', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'third', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'third', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'third', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'third', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'third', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+    {id: 'fourth', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'fourth', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'fourth', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'fourth', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'fourth', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'fourth', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'fourth', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'fourth', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'fourth', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+]
+
+
+const senen = [
+    {id: 'first', text: 'Мастера меча онлайн!', img: 'asssets/img/zgwjkwrdkqet.jpg'},
+    {id: 'first', text: 'Убийца Акаме!', img: 'asssets/img/fantasy/acame.jpg'},
+    {id: 'first', text: 'Фейри Тейл!', img: 'asssets/img/fantasy/fairy-tail.jpg'},
+    {id: 'first', text: 'Мастера меча онлайн!', img: 'asssets/img/fantasy/sword.jpg'},
+    {id: 'first', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'first', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'first', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'first', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'first', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+    {id: 'second', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'second', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'second', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'second', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'second', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'second', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'second', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'second', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'second', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+    {id: 'third', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'third', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'third', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'third', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'third', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'third', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'third', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'third', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'third', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+    {id: 'fourth', text: 'Мастера меча онлайн!', img: 'asssets/img/isekai/sao.jpg'},
+    {id: 'fourth', text: 'Владыка демонов!', img: 'asssets/img/isekai/demonsLord.jpg'},
+    {id: 'fourth', text: 'Слизь!', img: 'asssets/img/isekai/slime.webp'},
+    {id: 'fourth', text: 'Герой щита!', img: 'asssets/img/isekai/shieldHero'},
+    {id: 'fourth', text: 'Прекрасный мир', img: 'asssets/img/isekai/PerfectWorld.jpg'},
+    {id: 'fourth', text: 'Маленькая девочка', img: 'asssets/img/isekai/littleGirl'},
+    {id: 'fourth', text: 'Врата: там бьются наши воины', img: 'asssets/img/isekai/gates.jpg'},
+    {id: 'fourth', text: 'Перерождение безработного', img: 'asssets/img/isekai/jobless.png'},
+    {id: 'fourth', text: 'С нуля, пособие по выживанию в альтернативном мире', img: 'asssets/img/isekai/rezero.webp'},
+]
+
+const favorite = []
+
+const ganres = [
+    {class: 'slider__isekai', cnst: isekai},
+    {class: 'slider__senen', cnst: senen},
+    {class: 'slider__sedze', cnst: isekai},
+    {class: 'slider__harem', cnst: senen}
+]
+
+
+
+const g = {}
+window.g = g
